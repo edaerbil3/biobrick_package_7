@@ -1,2 +1,6 @@
-^mypkgname\.Rproj$
+^groupseven\.Rproj$
 ^\.Rproj\.user$
+^groupseven\.Rcheck$
+^groupseven.*\.tar\.gz$
+^groupseven.*\.tgz$
+^LICENSE\.md$
